@@ -31,6 +31,7 @@ const TodoForm = ({ onSubmit, onCancel, payload }: Props) => {
           payload ? todo : { ...todo, id: todo.text + todo.text.length }
         );
         setTodo({ text: "", id: "" });
+        ref.current?.focus();
       }}
     >
       <input
