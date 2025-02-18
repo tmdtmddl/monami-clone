@@ -1,3 +1,22 @@
+# monami clone
+
+1.Header Component
+
+- top componet
+- btm componet
+
+2.PicComponent
+
+3.CardComponent
+
+4.slide componet
+
+5.VdoComponent
+
+6.Notice Component
+
+7.Footer Component
+
 # Typescript
 
 코드의 안정성을 더해주고 자동완성 기능을 통해 내가 전달해야 하거나 받아야하는 값들의 타입 통일 시킬 수 있음.
